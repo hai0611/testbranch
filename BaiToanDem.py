@@ -12,3 +12,4 @@ for i in range(1,r+1):
         check = False
 if check:
     print("Excellent!")
+#ahihiii
